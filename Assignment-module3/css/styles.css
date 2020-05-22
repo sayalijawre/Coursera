@@ -1,0 +1,43 @@
+.font-color{
+    color:black;
+}
+
+.navbar-default{
+    background-color: lightcoral;
+}
+
+.navbar-nav{
+    background-color: lightgoldenrodyellow;
+    color:black;
+    text-align: center;
+}
+
+.navbar-collapse{
+    padding:0px;
+}
+
+.border-bottom{
+    border-bottom:1px solid black;
+    padding:5px;
+}
+
+.margin-0{
+    margin: 0px;
+}
+
+.content-background{
+background-color: coral;
+height: 1000px;
+}
+
+.col-xs-12{
+    width:94%;
+    margin-left: 15px;
+}
+
+@media (min-width: 992px){
+    .page-title {
+        width: 1170px;
+        margin-left: 20px;
+    }    
+}
